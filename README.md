@@ -1,5 +1,5 @@
 About Me
-👋 Hi there! I'm [Your Name], a passionate Front End Developer with a knack for crafting visually stunning and highly functional web interfaces. My journey in web development has been fueled by a relentless curiosity and a love for solving complex problems through elegant code and innovative design.
+👋 Hi there! I'm Ivan Piccardo, a passionate Front End Developer with a knack for crafting visually stunning and highly functional web interfaces. My journey in web development has been fueled by a relentless curiosity and a love for solving complex problems through elegant code and innovative design.
 
 What I Do
 🚀 Front End Development: I specialize in creating responsive, user-friendly web applications using cutting-edge technologies like React, Next.js, and Tailwind CSS. My goal is to bring ideas to life with clean, efficient code and exceptional design.
